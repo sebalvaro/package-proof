@@ -1,5 +1,5 @@
 {
-  "name": "package-proof",
+  "name": "@sebalvaro/package-proof",
   "type": "module",
   "version": "1.0.0",
   "description": "Proof of concept",
